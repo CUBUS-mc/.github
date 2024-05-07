@@ -7,3 +7,6 @@ Repos:
 - CUBUS-queen: This is the cube that will controll all other cubes in  the network (the c2 server)
 
   Please feel free to help me develop CUBUS
+
+Docs:
+- docs: This repo contains the current plan of CUBUS
